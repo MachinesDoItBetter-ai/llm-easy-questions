@@ -1,9 +1,0 @@
-model,total_correct,skipped,total_questions,accuracy
-gpt-3.5-turbo,8,0,14,0.571429
-o3-mini,13,1,13,1.000000
-gpt-4.1-nano,12,0,14,0.857143
-gpt-4,13,0,14,0.928571
-gpt-4o,10,0,14,0.714286
-gpt-4o-mini,6,0,14,0.428571
-gpt-5,14,0,14,1.000000
-gpt-5.2,12,0,14,0.857143
