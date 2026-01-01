@@ -1,0 +1,15 @@
+category,question,answer1,answer2,answer3,answer4,anser5,answer6,answer7
+CALCULATION,What is 2345 + 9987 + 12003 + 4567?,28902
+CALCULATION,What is the remainder when 123456 is divided by 7?,4,four
+LETTER_COUNTING,How many times does the letter r appear in the word strawberries?,3,three
+LETTER_COUNTING,Is the word "blue" longer than the word "red"?,Yes,True
+LETTER_COUNTING,Does the word "bookkeeper" contain two consecutive pairs of double letters?,Yes,True
+LOGIC,If every employee is a person does that mean every person is an employee?,No,False,It does not
+LOGIC,Bob always rides his bike to work Yesterday Bob did not ride his bike to work Does Bob always ride his bike?,No,False
+LOGIC,If you have three apples and I take away two oranges how many apples do you have?,3,Three, 3 Apples,Three Apples,You have three,You have 3,You have three apples
+LOGIC,A farmer has 10 sheep and all but 7 run away How many are left?,7,seven,7 sheep,seven sheep
+MATHEMATICS,Is a circle a polygon?,No,False,A circle is not a polygon
+MATHEMATICS,Is one a prime number?,No,False,One is not a prime,1 is not a prime
+RIDDLE,If Johns father has five sons North South East and West what is the fifth sons name?,John
+RIDDLE,How many months have at least 28 days?,12,twelve
+RIDDLE,Albert's father has a brother called Donald. Donald has three nephews: Huey and Dewey and whom?,Albert

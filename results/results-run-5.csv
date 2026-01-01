@@ -1,0 +1,112 @@
+model,question,answer,correct
+gpt-3.5-turbo,What is 2345 + 9987 + 12003 + 4567?,28402,incorrect
+gpt-3.5-turbo,What is the remainder when 123456 is divided by 7?,4,correct
+gpt-3.5-turbo,How many times does the letter r appear in the word strawberries?,Three times,incorrect
+gpt-3.5-turbo,"Is the word ""blue"" longer than the word ""red""?",No.,incorrect
+gpt-3.5-turbo,"Does the word ""bookkeeper"" contain two consecutive pairs of double letters?",Yes.,correct
+gpt-3.5-turbo,If every employee is a person does that mean every person is an employee?,No.,correct
+gpt-3.5-turbo,Bob always rides his bike to work Yesterday Bob did not ride his bike to work Does Bob always ride his bike?,No,correct
+gpt-3.5-turbo,If you have three apples and I take away two oranges how many apples do you have?,You still have three apples.,incorrect
+gpt-3.5-turbo,A farmer has 10 sheep and all but 7 run away How many are left?,7,correct
+gpt-3.5-turbo,Is a circle a polygon?,No.,correct
+gpt-3.5-turbo,Is one a prime number?,No.,correct
+gpt-3.5-turbo,If Johns father has five sons North South East and West what is the fifth sons name?,John,correct
+gpt-3.5-turbo,How many months have at least 28 days?,All 12 months.,incorrect
+gpt-3.5-turbo,Albert's father has a brother called Donald. Donald has three nephews: Huey and Dewey and whom?,Louie,incorrect
+o3-mini,What is 2345 + 9987 + 12003 + 4567?,28902,correct
+o3-mini,What is the remainder when 123456 is divided by 7?,4,correct
+o3-mini,How many times does the letter r appear in the word strawberries?,3,correct
+o3-mini,"Is the word ""blue"" longer than the word ""red""?",Yes,correct
+o3-mini,"Does the word ""bookkeeper"" contain two consecutive pairs of double letters?",Yes.,correct
+o3-mini,If every employee is a person does that mean every person is an employee?,No.,correct
+o3-mini,Bob always rides his bike to work Yesterday Bob did not ride his bike to work Does Bob always ride his bike?,No.,correct
+o3-mini,If you have three apples and I take away two oranges how many apples do you have?,3 apples,correct
+o3-mini,A farmer has 10 sheep and all but 7 run away How many are left?,7,correct
+o3-mini,Is a circle a polygon?,No.,correct
+o3-mini,Is one a prime number?,No,correct
+o3-mini,If Johns father has five sons North South East and West what is the fifth sons name?,John,correct
+o3-mini,How many months have at least 28 days?,12,correct
+gpt-4.1-nano,What is 2345 + 9987 + 12003 + 4567?,28702,incorrect
+gpt-4.1-nano,What is the remainder when 123456 is divided by 7?,4,correct
+gpt-4.1-nano,How many times does the letter r appear in the word strawberries?,2,incorrect
+gpt-4.1-nano,"Is the word ""blue"" longer than the word ""red""?",Yes,correct
+gpt-4.1-nano,"Does the word ""bookkeeper"" contain two consecutive pairs of double letters?",Yes.,correct
+gpt-4.1-nano,If every employee is a person does that mean every person is an employee?,No.,correct
+gpt-4.1-nano,Bob always rides his bike to work Yesterday Bob did not ride his bike to work Does Bob always ride his bike?,No,correct
+gpt-4.1-nano,If you have three apples and I take away two oranges how many apples do you have?,Three apples.,correct
+gpt-4.1-nano,A farmer has 10 sheep and all but 7 run away How many are left?,7,correct
+gpt-4.1-nano,Is a circle a polygon?,No.,correct
+gpt-4.1-nano,Is one a prime number?,No.,correct
+gpt-4.1-nano,If Johns father has five sons North South East and West what is the fifth sons name?,John,correct
+gpt-4.1-nano,How many months have at least 28 days?,12,correct
+gpt-4.1-nano,Albert's father has a brother called Donald. Donald has three nephews: Huey and Dewey and whom?,Albert,correct
+gpt-4,What is 2345 + 9987 + 12003 + 4567?,28902,correct
+gpt-4,What is the remainder when 123456 is divided by 7?,4,correct
+gpt-4,How many times does the letter r appear in the word strawberries?,3,correct
+gpt-4,"Is the word ""blue"" longer than the word ""red""?",No,incorrect
+gpt-4,"Does the word ""bookkeeper"" contain two consecutive pairs of double letters?",Yes,correct
+gpt-4,If every employee is a person does that mean every person is an employee?,No,correct
+gpt-4,Bob always rides his bike to work Yesterday Bob did not ride his bike to work Does Bob always ride his bike?,No,correct
+gpt-4,If you have three apples and I take away two oranges how many apples do you have?,Three,correct
+gpt-4,A farmer has 10 sheep and all but 7 run away How many are left?,7,correct
+gpt-4,Is a circle a polygon?,No,correct
+gpt-4,Is one a prime number?,No,correct
+gpt-4,If Johns father has five sons North South East and West what is the fifth sons name?,John,correct
+gpt-4,How many months have at least 28 days?,12,correct
+gpt-4,Albert's father has a brother called Donald. Donald has three nephews: Huey and Dewey and whom?,Albert,correct
+gpt-4o,What is 2345 + 9987 + 12003 + 4567?,28902,correct
+gpt-4o,What is the remainder when 123456 is divided by 7?,2,incorrect
+gpt-4o,How many times does the letter r appear in the word strawberries?,3,correct
+gpt-4o,"Is the word ""blue"" longer than the word ""red""?",Yes.,correct
+gpt-4o,"Does the word ""bookkeeper"" contain two consecutive pairs of double letters?",Yes.,correct
+gpt-4o,If every employee is a person does that mean every person is an employee?,No.,correct
+gpt-4o,Bob always rides his bike to work Yesterday Bob did not ride his bike to work Does Bob always ride his bike?,No.,correct
+gpt-4o,If you have three apples and I take away two oranges how many apples do you have?,Three apples.,correct
+gpt-4o,A farmer has 10 sheep and all but 7 run away How many are left?,7 sheep are left.,incorrect
+gpt-4o,Is a circle a polygon?,No.,correct
+gpt-4o,Is one a prime number?,No.,correct
+gpt-4o,If Johns father has five sons North South East and West what is the fifth sons name?,John,correct
+gpt-4o,How many months have at least 28 days?,All 12 months have at least 28 days.,incorrect
+gpt-4o,Albert's father has a brother called Donald. Donald has three nephews: Huey and Dewey and whom?,Louie.,incorrect
+gpt-4o-mini,What is 2345 + 9987 + 12003 + 4567?,2345 + 9987 + 12003 + 4567 = 28802.,incorrect
+gpt-4o-mini,What is the remainder when 123456 is divided by 7?,The remainder when 123456 is divided by 7 is 4.,incorrect
+gpt-4o-mini,How many times does the letter r appear in the word strawberries?,The letter r appears 2 times in the word strawberries.,incorrect
+gpt-4o-mini,"Is the word ""blue"" longer than the word ""red""?",No.,incorrect
+gpt-4o-mini,"Does the word ""bookkeeper"" contain two consecutive pairs of double letters?",Yes.,correct
+gpt-4o-mini,If every employee is a person does that mean every person is an employee?,No.,correct
+gpt-4o-mini,Bob always rides his bike to work Yesterday Bob did not ride his bike to work Does Bob always ride his bike?,No.,correct
+gpt-4o-mini,If you have three apples and I take away two oranges how many apples do you have?,Three apples.,correct
+gpt-4o-mini,A farmer has 10 sheep and all but 7 run away How many are left?,7 sheep are left.,incorrect
+gpt-4o-mini,Is a circle a polygon?,"No, a circle is not a polygon.",incorrect
+gpt-4o-mini,Is one a prime number?,No.,correct
+gpt-4o-mini,If Johns father has five sons North South East and West what is the fifth sons name?,John.,correct
+gpt-4o-mini,How many months have at least 28 days?,12 months.,incorrect
+gpt-4o-mini,Albert's father has a brother called Donald. Donald has three nephews: Huey and Dewey and whom?,Louie.,incorrect
+gpt-5,What is 2345 + 9987 + 12003 + 4567?,28902,correct
+gpt-5,What is the remainder when 123456 is divided by 7?,4,correct
+gpt-5,How many times does the letter r appear in the word strawberries?,3,correct
+gpt-5,"Is the word ""blue"" longer than the word ""red""?",Yes,correct
+gpt-5,"Does the word ""bookkeeper"" contain two consecutive pairs of double letters?",Yes,correct
+gpt-5,If every employee is a person does that mean every person is an employee?,No,correct
+gpt-5,Bob always rides his bike to work Yesterday Bob did not ride his bike to work Does Bob always ride his bike?,No,correct
+gpt-5,If you have three apples and I take away two oranges how many apples do you have?,3,correct
+gpt-5,A farmer has 10 sheep and all but 7 run away How many are left?,7,correct
+gpt-5,Is a circle a polygon?,No.,correct
+gpt-5,Is one a prime number?,No,correct
+gpt-5,If Johns father has five sons North South East and West what is the fifth sons name?,John,correct
+gpt-5,How many months have at least 28 days?,12,correct
+gpt-5,Albert's father has a brother called Donald. Donald has three nephews: Huey and Dewey and whom?,Albert,correct
+gpt-5.2,What is 2345 + 9987 + 12003 + 4567?,28902,correct
+gpt-5.2,What is the remainder when 123456 is divided by 7?,4,correct
+gpt-5.2,How many times does the letter r appear in the word strawberries?,2,incorrect
+gpt-5.2,"Is the word ""blue"" longer than the word ""red""?",Yes.,correct
+gpt-5.2,"Does the word ""bookkeeper"" contain two consecutive pairs of double letters?",Yes.,correct
+gpt-5.2,If every employee is a person does that mean every person is an employee?,No.,correct
+gpt-5.2,Bob always rides his bike to work Yesterday Bob did not ride his bike to work Does Bob always ride his bike?,No.,correct
+gpt-5.2,If you have three apples and I take away two oranges how many apples do you have?,3,correct
+gpt-5.2,A farmer has 10 sheep and all but 7 run away How many are left?,7,correct
+gpt-5.2,Is a circle a polygon?,No.,correct
+gpt-5.2,Is one a prime number?,No.,correct
+gpt-5.2,If Johns father has five sons North South East and West what is the fifth sons name?,John,correct
+gpt-5.2,How many months have at least 28 days?,12,correct
+gpt-5.2,Albert's father has a brother called Donald. Donald has three nephews: Huey and Dewey and whom?,Louie,incorrect
