@@ -1,0 +1,41 @@
+model,question,answer,correct
+gpt-3.5-turbo,How many times does the letter i appear in the word times?,One.,correct
+gpt-3.5-turbo,How many times does the letter o appear in the word countout?,Two times.,correct
+gpt-3.5-turbo,How many times does the letter m appear in the word mammal?,2,incorrect
+gpt-3.5-turbo,How many times does the letter r appear in the word strawberries?,Three times,correct
+gpt-3.5-turbo,How many times does the letter s appear in the string drwasjaldhssiness?,4,incorrect
+o3-mini,How many times does the letter i appear in the word times?,1,correct
+o3-mini,How many times does the letter o appear in the word countout?,2,correct
+o3-mini,How many times does the letter m appear in the word mammal?,3,correct
+o3-mini,How many times does the letter r appear in the word strawberries?,3,correct
+o3-mini,How many times does the letter s appear in the string drwasjaldhssiness?,5,correct
+gpt-4.1-nano,How many times does the letter i appear in the word times?,2,incorrect
+gpt-4.1-nano,How many times does the letter o appear in the word countout?,2,correct
+gpt-4.1-nano,How many times does the letter m appear in the word mammal?,2,incorrect
+gpt-4.1-nano,How many times does the letter r appear in the word strawberries?,2,incorrect
+gpt-4.1-nano,How many times does the letter s appear in the string drwasjaldhssiness?,4,incorrect
+gpt-4,How many times does the letter i appear in the word times?,1,correct
+gpt-4,How many times does the letter o appear in the word countout?,2,correct
+gpt-4,How many times does the letter m appear in the word mammal?,3,correct
+gpt-4,How many times does the letter r appear in the word strawberries?,3,correct
+gpt-4,How many times does the letter s appear in the string drwasjaldhssiness?,4,incorrect
+gpt-4o,How many times does the letter i appear in the word times?,1,correct
+gpt-4o,How many times does the letter o appear in the word countout?,2,correct
+gpt-4o,How many times does the letter m appear in the word mammal?,3,correct
+gpt-4o,How many times does the letter r appear in the word strawberries?,Three times.,correct
+gpt-4o,How many times does the letter s appear in the string drwasjaldhssiness?,4,incorrect
+gpt-4o-mini,How many times does the letter i appear in the word times?,"The letter i appears 1 time in the word ""times.""",correct
+gpt-4o-mini,How many times does the letter o appear in the word countout?,The letter o appears 2 times in the word countout.,correct
+gpt-4o-mini,How many times does the letter m appear in the word mammal?,The letter m appears 2 times in the word mammal.,incorrect
+gpt-4o-mini,How many times does the letter r appear in the word strawberries?,The letter r appears 3 times in the word strawberries.,correct
+gpt-4o-mini,How many times does the letter s appear in the string drwasjaldhssiness?,4,incorrect
+gpt-5,How many times does the letter i appear in the word times?,1,correct
+gpt-5,How many times does the letter o appear in the word countout?,2,correct
+gpt-5,How many times does the letter m appear in the word mammal?,3,correct
+gpt-5,How many times does the letter r appear in the word strawberries?,3,correct
+gpt-5,How many times does the letter s appear in the string drwasjaldhssiness?,5,correct
+gpt-5.2,How many times does the letter i appear in the word times?,1,correct
+gpt-5.2,How many times does the letter o appear in the word countout?,2,correct
+gpt-5.2,How many times does the letter m appear in the word mammal?,3,correct
+gpt-5.2,How many times does the letter r appear in the word strawberries?,2,incorrect
+gpt-5.2,How many times does the letter s appear in the string drwasjaldhssiness?,4,incorrect

@@ -1,0 +1,6 @@
+category,question,answer1,answer2,answer3,answer4,anser5,answer6,answer7
+LETTER_COUNTING,How many times does the letter i appear in the word times?,1,one
+LETTER_COUNTING,How many times does the letter o appear in the word countout?,2,two
+LETTER_COUNTING,How many times does the letter m appear in the word mammal?,3,three
+LETTER_COUNTING,How many times does the letter r appear in the word strawberries?,3,three
+LETTER_COUNTING,How many times does the letter s appear in the string drwasjaldhssiness?,5,five

@@ -100,8 +100,8 @@ def savefig(outdir: Path, name: str):
 # ---------------- Charts ----------------
 
 def chart_accuracy_by_model(df, outdir, prefix):
-    acc = df.groupby("model")["correct_bin"].mean().sort_values(ascending=False)
-
+    # acc = df.groupby("model")["correct_bin"].mean().sort_values(ascending=False)
+    acc = df.groupby("model")["correct_bin"].mean()
     plt.figure(figsize=(8, 4))
     acc.plot(kind="bar")
     plt.ylabel("Accuracy")
